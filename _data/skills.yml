@@ -1,19 +1,5 @@
-- name: Software Engineer Keywords
+- name: Life Keywords
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - 一口气吃十碟寿司郎
+      - 爆老鼠金币
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
